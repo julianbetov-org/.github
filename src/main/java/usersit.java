@@ -1,4 +1,4 @@
-public class user {
+public class usersit {
 
     public boolean firstMethod(String name) {
         return name != null && !name.isEmpty();
